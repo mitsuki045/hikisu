@@ -1,5 +1,5 @@
 public class Test {
-    public void foo(int a) {
+    public void kenti(int a) {
         System.out.println(a);
     }
 }
